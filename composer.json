@@ -1,8 +1,9 @@
 {
   "name": "bigbug-gg/zenlayer",
-  "description": "PHP SDK for Zenlayer Cloud API",
+  "description": "Zenlayer Cloud API PHP SDK",
   "type": "library",
   "license": "TIM",
+  "version": "0.0.1",
   "autoload": {
     "psr-4": {
       "BigbugGg\\Zenlayer\\": "src/"
