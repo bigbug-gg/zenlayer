@@ -1,0 +1,25 @@
+{
+  "name": "bigbug-gg/zenlayer",
+  "description": "PHP SDK for Zenlayer Cloud API",
+  "type": "library",
+  "license": "TIM",
+  "autoload": {
+    "psr-4": {
+      "BigbugGg\\Zenlayer\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Gavin Chen",
+      "email": "bigbug-gg@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=8.3"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^11.2@dev",
+    "ext-http": "*"
+  }
+}
