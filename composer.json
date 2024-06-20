@@ -3,7 +3,7 @@
   "description": "Zenlayer Cloud API PHP SDK",
   "type": "library",
   "license": "MIT",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "autoload": {
     "psr-4": {
       "BigbugGg\\Zenlayer\\": "src/"
